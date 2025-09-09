@@ -1,5 +1,5 @@
 # Primeiro-Projeto.sh
-usado para fazer calculos, foi montado usando o bin bash no linux
+usado para fazer calculos, foi montado usando o bin bash no linux, para começar o uso é necessario por a numeração desejada e escolher a operação, entao será feito o calculo desejado.
 #!/bin/bash
 
 echo "Digite o primeiro número: "
